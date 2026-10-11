@@ -6,10 +6,6 @@ Calculadora desktop em Python com visual de painel holográfico: fundo escuro,
 botões com profundidade 3D, brilho neon, display digital e animações leves.
 A lógica matemática é totalmente separada da interface e coberta por testes.
 
-## Demonstração
-
-calculadora-futurista/assets/calculadora futuro.png
-
 
 ## Tecnologias
 
