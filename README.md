@@ -7,7 +7,7 @@ botões com profundidade 3D, brilho neon, display digital e animações leves.
 A lógica matemática é totalmente separada da interface e coberta por testes.
 
 
-##Demonstração da calculadora
+##**Demonstração da calculadora**
 
 
 
