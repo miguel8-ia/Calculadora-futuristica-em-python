@@ -8,7 +8,7 @@ A lógica matemática é totalmente separada da interface e coberta por testes.
 
 ## Demonstração
 
-calculadora-futurista/assets/calculadora-futuro.png
+![Calculadora Futurista](assets/calculadora-futuro.png)
 
 > Ainda não há GIF? Grave a tela com o programa aberto (ScreenToGif no
 > Windows, Peek no Linux, Gravação de Tela no macOS), salve como
