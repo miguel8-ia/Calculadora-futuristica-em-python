@@ -8,7 +8,7 @@ A lógica matemática é totalmente separada da interface e coberta por testes.
 
 ## Demonstração
 
-![Demonstração](assets/demo.gif)
+calculadora-futurista/assets/calculadora futuro.png
 
 
 ## Tecnologias
