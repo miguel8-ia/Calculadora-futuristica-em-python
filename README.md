@@ -10,9 +10,6 @@ A lógica matemática é totalmente separada da interface e coberta por testes.
 
 ![Demonstração](assets/demo.gif)
 
-> Ainda não há GIF? Grave a tela com o programa aberto (ScreenToGif no
-> Windows, Peek no Linux, Gravação de Tela no macOS), salve como
-> `assets/demo.gif`, depois `git add assets/demo.gif` e faça commit.
 
 ## Tecnologias
 
